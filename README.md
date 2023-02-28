@@ -6,9 +6,9 @@ Fullstack Developer
 
 I'm a passioned for development.
 
-* 🌍  I'm based in Coimbra
+* 🌍  I'm based in Coimbra, Portugal.
 * ✉️  You can contact me at [italloaquino.dev@gmail.com](mailto:italloaquino.dev@gmail.com)
-* 🧠  I'm learning React, Node.js and TypeScript.
+* 🧠  I'm learning ReactJS, Node.js and TypeScript.
 * 🤝  I'm open to collaborating on Projects.
 
 ### Skills
